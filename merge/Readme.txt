@@ -13,10 +13,10 @@ _only_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/sof
 _only_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x86_0201d799b4a1883492ce1eecf04cb09a3f45c5b3.msu
 
 ;2022-05 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 
-_21H2x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_6dc7730c205a77a68542e68a70e683b079662226.msu
+_21H2x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_e85866bc2a5a4e4c7ab8200f770f74140afe5483.cab
 
 ;2022-05 适用于 Windows 10 Version 21H2 基于 x32 系统的累积更新
-_21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_0f75e54848366a2669827a2855a47c13035c24d3.msu
+_21H2x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_51733e9cda5055e5ead6e5d29df099c8895ee069.cab
 
 ;2022-05 适用于 Windows 10 1809 基于 x64 系统的累计更新
 _1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
