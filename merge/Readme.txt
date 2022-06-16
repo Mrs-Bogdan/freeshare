@@ -1,28 +1,28 @@
 ;分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是服务堆栈更新补丁)，文档允许有空行
 
-;2022-05 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
-_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
+;2022-06 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
+_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows8.1-kb5014738-x64_5a8213e20854c2462b6b3dd005fe30caba1a7da2.msu
 
-;2022-05 适用于 Windows 8.1 基于 x32 系统的月度安全质量汇总
-_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
+;2022-06 适用于 Windows 8.1 基于 x32 系统的月度安全质量汇总
+_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows8.1-kb5014738-x86_e7b4d85eb22793c8a023a32689638bc32c7ab9f7.msu
 
-;2022-05 适用于 Windows 8.1 基于 x64 系统的服务堆栈更新
-_only_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x64_083b88cc298e107261f2615517de99f93603d184.msu
+;2022-06 适用于 Windows 8.1 基于 x64 系统的服务堆栈更新
+_only_8.1x64=
 
-;2022-05 适用于 Windows 8.1 基于 x86 系统的服务堆栈更新
-_only_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x86_0201d799b4a1883492ce1eecf04cb09a3f45c5b3.msu
+;2022-06 适用于 Windows 8.1 基于 x86 系统的服务堆栈更新
+_only_8.1x32=
 
-;2022-05 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 
-_21H2x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_e85866bc2a5a4e4c7ab8200f770f74140afe5483.cab
+;2022-06 适用于 Windows 10 Version 21H2 基于 x64 系统的累积更新 
+_21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x64_202eb4370b02f689b4904b69f13076b66ce5e1f1.cab
 
-;2022-05 适用于 Windows 10 Version 21H2 基于 x32 系统的累积更新
-_21H2x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_51733e9cda5055e5ead6e5d29df099c8895ee069.cab
+;2022-06 适用于 Windows 10 Version 21H2 基于 x32 系统的累积更新
+_21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x86_2cb67b76d1c48fa6fb30258c71b3adf382945e1b.cab
 
-;2022-05 适用于 Windows 10 1809 基于 x64 系统的累计更新
-_1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x64_8df2c89490d6cd19f5086728dbc3c991decefad7.msu
+;2022-06 适用于 Windows 10 1809 基于 x64 系统的累计更新
+_1809x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x64_14bce6a6e97c5f43c7cc361d639702ed84ef302a.msu
 
-;2022-05 适用于 Windows 10 1809 基于 x32 系统的累计更新
-_1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
+;2022-06 适用于 Windows 10 1809 基于 x32 系统的累计更新
+_1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows10.0-kb5014692-x86_22d2572f5e50f0d9402c81b3731e21469a2c98f9.msu
 
 ;2022-0 适用于 Windows 10 1809 基于 x64 位 系统的服务堆栈更新
 _only_1809x64=
@@ -30,14 +30,14 @@ _only_1809x64=
 ;2022-0 适用于 Windows 10 1809 基于 x32 位 系统的服务堆栈更新
 _only_1809x32=
 
-;2022-05 适用于Windows 10 Version 1607 基于 x64 系统的累积更新 
-_1607x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
+;2022-06 适用于Windows 10 Version 1607 基于 x64 系统的累积更新 
+_1607x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014702-x64_48f484f06070f3dee90aa62a574d9c1e1b774b2a.msu
 
-;2022-05 适用于Windows 10 Version 1607 基于 x32 系统的累积更新
-_1607x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu
+;2022-06 适用于Windows 10 Version 1607 基于 x32 系统的累积更新
+_1607x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014702-x86_1a4d4017a798d7ace9e413490dd673f7871a6a86.msu
 
-;2022-05 适用于Windows 10 Version 1607 基于 x64 位 系统的服务堆栈更新
-_only_1607x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x64_df6de35fd472512e628c2acc6e8d58f3e6139ac9.msu
+;2022-06 适用于Windows 10 Version 1607 基于 x64 位 系统的服务堆栈更新
+_only_1607x64=
 
-;2022-05 适用于Windows 10 Version 1607 基于 x32 位 系统的服务堆栈更新
-_only_1607x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x86_3932a25aaa5b39d8184be730f779db103bec3a72.msu
+;2022-06 适用于Windows 10 Version 1607 基于 x32 位 系统的服务堆栈更新
+_only_1607x32=
